@@ -1,7 +1,7 @@
 <!-- Why Choose Us Section -->
 <section id="features" class="why-choose-us">
     <div class="container">
-        <h2 class="section-title">Why Choose RocketInk?</h2>
+        <h2 class="section-title">Why Choose Rainbow Printing?</h2>
         <p class="section-subtitle">Experience, quality, and service you can trust</p>
         
         <div class="features-grid">

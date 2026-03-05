@@ -6,7 +6,10 @@
                     <span class="badge-text">40+ Years of Excellence</span>
                 </div>
                 <div class="site-logo-wrapper-alt">
+                    <h3>Previously</h3>
                     <?php rocketink_get_logo(); ?>
+                    <h3>Now</h3>
+
                 </div>
                 <h1 class="hero-headline">
                     <span class="headline-accent">Atlantic Canada's</span>

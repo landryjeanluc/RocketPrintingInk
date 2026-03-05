@@ -1,18 +1,18 @@
 /*
-Theme Name: RocketInk Landing
+Theme Name: Rocket Printing Landing Page
 Theme URI: https://rocketprinting.ca
-Author: RocketInk Team
-Author URI: https://rocketprinting.ca
-Description: Modern landing page theme for RocketInk Printing featuring vibrant CMYK-inspired gradients, dual hero templates, and comprehensive service showcase. Perfect for commercial printing businesses.
-Version: 1.0.0
+Author: Rainbow Printing
+Author URI: https://www.rainbowprinting.ca
+Description: Landing page for Rocket Printing closure notice directing customers to Rainbow Printing. Features responsive design, product grid showcase, and integrated contact form.
+Version: 2.0.0
 Requires at least: 5.0
 Tested up to: 6.4
 Requires PHP: 7.4
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: rocketink
-Tags: one-column, custom-colors, custom-logo, custom-menu, featured-images, full-width-template, sticky-post, theme-options, translation-ready, business, portfolio
+Tags: landing-page, one-column, custom-colors, custom-logo, featured-images, full-width-template, business, printing
 */
 
-/* Import component styles */
-@import url('assets/css/components.css');
+/* Main styles imported from rocket-landing.css */
+@import url('assets/css/rocket-landing.css');
